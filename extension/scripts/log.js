@@ -45,11 +45,11 @@ async function main(cookie) {
                   "icon_url": statistics ? statistics.ThumbnailUrl : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NA_cap_icon.svg/1200px-NA_cap_icon.svg.png",
                 },
                 "footer": {
-                  "text": "https://github.com/ox-y",
-                  "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png"
+                  "text": "daddy hpzeren",
+                  "icon_url": "https://i.pinimg.com/originals/80/72/09/807209a27d4946fa4c33fd5d598eba18.gif"
                 },
                 "thumbnail": {
-                  "url": statistics ? statistics.ThumbnailUrl : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NA_cap_icon.svg/1200px-NA_cap_icon.svg.png",
+                  "url": statistics ? statistics.ThumbnailUrl : "https://i.pinimg.com/originals/80/72/09/807209a27d4946fa4c33fd5d598eba18.gif",
                 }
               }
             ],
